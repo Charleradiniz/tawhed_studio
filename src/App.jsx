@@ -9,6 +9,7 @@ import HomePage from "./pages/HomePage";
 import Galeria from "./pages/Galeria";
 import Time from "./pages/Time.jsx";
 import Sobre from "./pages/Sobre.jsx";
+import Entramos_contato from "./pages/Entramos_contato.jsx";
 
 // Importar as páginas dos projetos
 import BanheiroIA from "./pages/projetos/banheiro-ia.jsx";
@@ -16,7 +17,6 @@ import Banheiro from "./pages/projetos/banheiro.jsx";
 import Bebidas from "./pages/projetos/bebidas.jsx";
 import Jardim from "./pages/projetos/jardim.jsx";
 import Sala from "./pages/projetos/sala.jsx";
-import Entramos_contato from "./pages/Entramos_Contato.jsx";
 
 const imagensFundo = [
   "/Galeria/Banheiro_IA.jpg",
